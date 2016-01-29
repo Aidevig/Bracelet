@@ -25,3 +25,7 @@ Check out the source code and feel free to contribute.
 ## Electronic design
 
 We used [EAGLE](http://www.cadsoftusa.com/) to design the electronic part.
+
+# License
+
+* [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
