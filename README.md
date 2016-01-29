@@ -24,4 +24,4 @@ Check out the source code and feel free to contribute.
 
 ## Electronic design
 
-We used eagle cad to design the electronic part.
+We used [EAGLE](http://www.cadsoftusa.com/) to design the electronic part.
