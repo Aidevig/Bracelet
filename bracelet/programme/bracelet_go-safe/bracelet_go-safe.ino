@@ -139,7 +139,7 @@ void loop()
   for(int i = 0; i<25; i++){
     
     if (timeout<=0 && analogRead(A2) >= soundStep) {
-      askForNotif('S'); &
+      askForNotif('S'); 
     }
 
     btnValue = digitalRead(2);
