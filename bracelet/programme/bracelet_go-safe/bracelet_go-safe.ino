@@ -8,7 +8,9 @@
 #include <SPI.h>
 #include "Adafruit_BLE_UART.h"
 #include <Wire.h>
-//TEST QUENTIN A SUPPRIMER
+/*
+ * Test 2 QUENTIN
+ */
 #define ADAFRUITBLE_REQ 10
 #define ADAFRUITBLE_RDY 3
 #define ADAFRUITBLE_RST 8
